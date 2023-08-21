@@ -31,9 +31,19 @@ Please read the [Contributing guide](./CONTRIBUTING.md). Thank you to all our [c
 ## Chain Registry
 
 A registry containing Hyperlane deployment details.
-| Network  | Contract | Contract Address       | Deployment Team | Testnet |
-|----------|----------|------------------------|-----------------|---------|
-| Ethereum  | Mailbox    | 0x35231d4c2D8B8ADcB5617A638A0c4548684c7C70 | Hyperlane          | No      |
+| Network  | Contract | Contract Address       | Deployment Team | Testnet | Default ISM |
+|----------|----------|------------------------|-----------------|---------|-------------|
+| Ethereum  | Mailbox    | 0x35231d4c2D8B8ADcB5617A638A0c4548684c7C70 | Hyperlane          | No      | Multisig |
+| Celo  | Mailbox    | 0x35231d4c2D8B8ADcB5617A638A0c4548684c7C70 | Hyperlane          | No      | Multisig |
+| Avalanche  | Mailbox    | 0x35231d4c2D8B8ADcB5617A638A0c4548684c7C70 | Hyperlane          | No      | Multisig |
+| Polygon  | Mailbox    | 0x35231d4c2D8B8ADcB5617A638A0c4548684c7C70 | Hyperlane          | No      | Multisig |
+| BSC  | Mailbox    | 0x35231d4c2D8B8ADcB5617A638A0c4548684c7C70 | Hyperlane          | No      | Multisig |
+| Arbitrum  | Mailbox    | 0x35231d4c2D8B8ADcB5617A638A0c4548684c7C70 | Hyperlane          | No      | Multisig |
+| Optimism  | Mailbox    | 0x35231d4c2D8B8ADcB5617A638A0c4548684c7C70 | Hyperlane          | No      | Multisig |
+| Moonbeam  | Mailbox    | 0x35231d4c2D8B8ADcB5617A638A0c4548684c7C70 | Hyperlane          | No      | Multisig |
+| Gnosis  | Mailbox    | 0x35231d4c2D8B8ADcB5617A638A0c4548684c7C70 | Hyperlane          | No      | Multisig |
+
+
 
 
 ## Ecosystem
