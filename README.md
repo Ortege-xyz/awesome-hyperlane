@@ -1,4 +1,3 @@
-<!--lint disable double-link-->
 # Awesome Hyperlane [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 > A community curated list of awesome projects related to the Hyperlane ecosystem
@@ -9,15 +8,17 @@ Please read the [Contributing guide](./CONTRIBUTING.md). Thank you to all our [c
 **Disclaimer: This community-maintained repo does not reflect the views of any official entity.**
 
 ## Contents
-
-* [Documentation](#documentation)
-* [Block Explorers](#block-explorers)
-    * [Visual Block Explorers](#visual-block-explorers)
-    * [Terminal Block Explorers](#terminal-block-explorers)
-* [Chain Registry](#chain-registry)
-* [Ecosystem](#ecosystem)
-* [Blogs](#blogs)
-    * [Articles](#articles)
+- [Awesome Hyperlane ](#awesome-hyperlane-)
+  - [Contents](#contents)
+  - [Documentation](#documentation)
+  - [Block Explorers](#block-explorers)
+  - [Chain Registry](#chain-registry)
+  - [Ecosystem](#ecosystem)
+    - [Cosmos](#cosmos)
+    - [Fuel](#fuel)
+    - [Hackathon Winners](#hackathon-winners)
+  - [Blogs](#blogs)
+    - [Articles](#articles)
 
 ## Documentation
 
@@ -36,6 +37,13 @@ A registry containing Hyperlane deployment details.
 
 
 ## Ecosystem
+### Cosmos
+[Strangelove](https://strange.love/) is building out the Cosmos integration
+### Fuel
+
+
+### Hackathon Winners
+[Past winners](https://hyperlanexyz.notion.site/39f011115909438cb892f72aec8eb0f7?v=be5a9d6678414403b6fde2869169c681)
 
 
 ## Blogs
